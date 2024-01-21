@@ -1,0 +1,111 @@
+#navbardrop{
+    color:white;
+    font-size: 1.2rem;
+  }
+  .dropdown a{
+    color: black;
+    
+  }
+  .navbar-nav{
+    gap: 20px;
+  }
+  .carousel-inner img {
+    width: 100%;
+    height: 600px;
+  }
+  .container-sm{
+    width: 800px;
+    height: 500px;
+  }
+  #opacity{
+    opacity: 0.60;
+  }
+  .jumbotron{
+    height: 400px;
+  }
+  .main{
+    display: flex;
+    justify-content: space-evenly;
+    width: 480px;
+    /* align-items: center; */
+    /* align-content: center; */
+    margin-left: 500px;
+    gap: 50px;
+    height: 300px;
+  }
+  .container h2{
+text-align: center;
+  }
+  .container img{
+    border-radius: 5px;
+  }
+  .sold{
+    height: 25px;
+    background-color: red;
+    color: white;
+    width: 95px;
+    position: relative;
+    right: 540px;
+/* margin-right: 820px; */
+text-align: center;
+  }
+  .badge-primary.badge-pill{
+    color:white;
+    background-color: black;
+  }
+  .cards{
+    background-color: black;
+    height: 790px;
+    margin-bottom: 50px;
+  }
+  .mt-3{
+    margin-bottom: 50px;
+    width: 820px;
+  }
+  .TICKET{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+  }
+.full{
+    display: flex;
+    justify-content: center;
+}
+.full input{
+    margin-left: 20px;
+}
+ /* .location{
+    margin-right: 120px;
+    /* gap: 40px; */
+} */
+.location{
+    margin-left: 140px;
+}
+.input{
+    margin-left: 170px;
+}
+.input3{
+ margin-left: 780px;
+ position: relative;
+ bottom: 60px;
+
+   
+}
+.button{
+    position: relative;
+    left: 230px;
+    width: 90px;
+
+}
+.emoje p{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 50px;
+    opacity: 0.6rem;
+    
+}
+.last a{
+    color: black;
+    text-decoration: underline;
+}
